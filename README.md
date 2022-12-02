@@ -69,7 +69,7 @@ _____
 1. Exonerate, CDHIT and BLAST Outputs converted independently for parsing into multifasta
 ![alt text](Files/cdhit.jpg "Circular Diagram")
 ![alt text](Files/exonerate.jpg "Circular Diagram")
-2. 
+2. Multi-GTF Aggregate filtered for nonredundant hits.
 ![alt text](Files/gtfBlast.jpg "Circular Diagram")
 3. NCBI CDD Hits parsed for canonical domains and ascensions.
 ![alt text](Files/cdd1.jpg "Circular Diagram")
