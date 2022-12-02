@@ -1,5 +1,5 @@
 
-![alt text](Files/cdd1.jpg "Circular Diagram")
+![alt text](Files/img.png "Circular Diagram")
 # Echinoderm_Regeneration [^1]
  ###### Summer Internship project at the Univeristy of North Carolina at Charlotte.
  
