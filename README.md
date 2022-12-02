@@ -30,40 +30,40 @@ _____
 |---|---|---|---|---|
 |hairless|10|9|3|47|
 |notch1|14|20|8|33|
-|adam|17|   |   |59|
-|p300|   |   |   |60|
-|nack|   |   |   |44|
-|modifiers|   |   ||70|
-|mindbomb|   |   |   |22|
-|nack|   |   |   |40|
-|hes|   |   |   |17|
-|csl|   |   |   |47|
-|gammas_secretase|   |   |   |43|
+|adam|17|11|8|59|
+|p300|23|21|12|60|
+|nack|20|20|8|44|
+|modifiers|18|7||70|
+|mindbomb|8|4|4|22|
+|nack|7|5|5|40|
+|hes|6|6|3|17|
+|csl|12|8|7|47|
+|gammas_secretase|8|8|4|43|
 
 ### WNT
 |Domain|blastn|blastp|CDHIT|Exonerate (Unfiltered)|
 |---|---|---|---|---|
-|znrf3 |   |   |   |30|
-|wls|   |   |   |18|
-|tspan12|   |   |   |19|
-|tcf|   |   |   |107|
-|sfrp|   |   |   |33|
-|sclerostin|   |   |   |25|
-|rnf43|   |   |   |29|
-|r-spondin|   |   |   |41|
-|porcupine|   |   |   |29|
-|notum|   |   |   |39|
+|znrf3 |17|14|6|30|
+|wls|22|20|3|18|
+|tspan12|5|2|1|19|
+|tcf|7|7|3|107|
+|sfrp|6|5|1|33|
+|sclerostin|14|13|2|25|
+|rnf43|9|7|2|29|
+|r-spondin|14|10|3|41|
+|porcupine|4|4|2|29|
+|notum|16|15|6|39|
 |norin|8|6|4|7|
-|kremen|   |   |   |17|
-|lgr5|   |   |   |55|
-|gsk3|   |   |   |26|
-|groucho|   |   |   |35|
-|dishevelled|   |   |   |41|
-|geta-catenin|   |   |   |13|
-|ck1|   |   |   |49|
-|axin|   |   |   |18|
-|apc|   |   |   |38|
-|frizzled|   |   |   |33|
+|kremen|8|8|4|17|
+|lgr5|15|11|6|55|
+|gsk3|9|7|3|26|
+|groucho|7|7|3|35|
+|dishevelled|13|10|2|41|
+|geta-catenin|7|4|6|13|
+|ck1|18|13|4|49|
+|axin|14|10|3|18|
+|apc|8|9|4|38|
+|frizzled|10|8|3|33|
 
 
 ### Processing 
