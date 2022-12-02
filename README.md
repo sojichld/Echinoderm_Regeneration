@@ -28,8 +28,8 @@ _____
 ### NOTCH
 |Domain|Blast|CDHIT|Exonerate|Ascension|
 |---|---|---|---|---|
-|correpressor(notch)   |   |   |   |   |
-|receptor(notch)|   |   |   |   |
+|correpressor (notch)   |   |   |   |   |
+|receptor (notch)|   |   |   |   |
 |adam|   |   |   |   |
 |p300|   |   |   |   |
 |nack|   |   |   |   |
