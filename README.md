@@ -12,7 +12,7 @@
 ### Genome Assembly Result Conversion (GTF Convert)
 -- Series of scripts that converters outputs from different programs (BLAST, exonerate, and CD-HIT) to GTF format.
 
-![alt text](diagram.jpg "Circular Diagram")
+![alt text](Files/diagram.jpg "Circular Diagram")
 
 Notes:
 [^1]: This is an ongoing repository that will be *archived* in May 2022.
