@@ -9,10 +9,11 @@
 - - Literature Review
 - - Fastqc, Trimmomatic, Star and Braker Scripts and Results
 - - De novo ABySS assemblage, Exonerate Alignment Scripts and Results
-### Genome Assembly Result Conversion (GTF Convert)
-- - Series of scripts that converters outputs from different programs (BLAST, exonerate, and CD-HIT) to GTF format.
+### Genome Assembly Convert and Capture (GTF Convert)
+- - Series of scripts that converters and integrates results from different aligners and clusteres (BLAST, exonerate, and CD-HIT) to GTF format file.
 #### Annotation
 - - Acquisition of Gene Annotations and Alignment against cannonical sequences in model organisms and other Echinoderms.
+- - Referenced against uniprot and ncbi
 
 
 ____
