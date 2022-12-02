@@ -66,6 +66,7 @@ _____
 |frizzled|   |   |   |33|
 
 
+### Processing 
 1. Exonerate, CDHIT and BLAST Outputs converted independently for parsing into multifasta
 ![alt text](Files/cdhit.jpg "Circular Diagram")
 ![alt text](Files/exonerate.jpg "Circular Diagram")
