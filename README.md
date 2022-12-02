@@ -1,7 +1,8 @@
 
-![alt text](diagram.jpg "Circular Diagram")
+![alt text](img.png "Circular Diagram")
 # Echinoderm_Regeneration [^1]
  ###### Summer Internship project at the Univeristy of North Carolina at Charlotte.
+ ![alt text](diagram.jpg "Circular Diagram")
 ## Overview[^2]
 
 ### Sea Cucumber Genome Project
