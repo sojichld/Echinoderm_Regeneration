@@ -23,13 +23,7 @@ ____
 
 ![alt text](Files/diagram.jpg "Circular Diagram")
 
--- Exonerate, CDHIT and BLAST Outputs converted independently for parsing into multifasta
-![alt text](Files/cdhit.jpg "Circular Diagram")
-![alt text](Files/exonerate.jpg "Circular Diagram")
-----
-![alt text](Files/gtfBlast.jpg "Circular Diagram")
--- NCBI CDD Hits parsed for canonical domains and ascensions.
-![alt text](Files/cdd1.jpg "Circular Diagram")
+
 _____
 ### NOTCH
 |Domain|blastn|blastp|CDHIT|Exonerate (unfiltered)|
@@ -71,6 +65,14 @@ _____
 |apc|   |   |   |38|
 |frizzled|   |   |   |33|
 
+
+-- Exonerate, CDHIT and BLAST Outputs converted independently for parsing into multifasta
+![alt text](Files/cdhit.jpg "Circular Diagram")
+![alt text](Files/exonerate.jpg "Circular Diagram")
+----
+![alt text](Files/gtfBlast.jpg "Circular Diagram")
+-- NCBI CDD Hits parsed for canonical domains and ascensions.
+![alt text](Files/cdd1.jpg "Circular Diagram")
 
 Notes:
 [^1]: This is an ongoing repository that will be *archived* in May 2023.
