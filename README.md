@@ -11,6 +11,9 @@
 - - De novo ABySS assemblage, Exonerate Alignment Scripts and Results
 ### Genome Assembly Result Conversion (GTF Convert)
 -- Series of scripts that converters outputs from different programs (BLAST, exonerate, and CD-HIT) to GTF format.
+### Annotation
+-- Acquisition of Gene Annotations and Alignment against cannonical sequences in model organisms and other Echinoderms.
+
 
 ____
 
