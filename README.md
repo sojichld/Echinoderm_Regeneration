@@ -26,44 +26,44 @@ ____
 
 _____
 ### NOTCH
-|Domain|Blast|CDHIT|Exonerate|Ascension|
+|Domain|blastn|blastp|CDHIT|Exonerate (unfiltered)|
 |---|---|---|---|---|
-|correpressor (notch)   |   |   |   |   |
-|receptor (notch)|   |   |   |   |
-|adam|   |   |   |   |
-|p300|   |   |   |   |
-|nack|   |   |   |   |
-|modifiers|   |   |   |   |
-|mindbomb|   |   |   |   |
-|nack|   |   |   |   |
-|hes|   |   |   |   |
-|csl|   |   |   |   |
-|gammas_secretase|   |   |   |   |
+|hairless|10|9|3|47|
+|notch1|14|20|8|33|
+|adam|17|   |   |59|
+|p300|   |   |   |60|
+|nack|   |   |   |44|
+|modifiers|   |   ||70|
+|mindbomb|   |   |   |22|
+|nack|   |   |   |40|
+|hes|   |   |   |17|
+|csl|   |   |   |47|
+|gammas_secretase|   |   |   |43|
 
 ### WNT
-|Domain|Blast|CDHIT|Exonerate|Ascension|
+|Domain|blastn|blastp|CDHIT|Exonerate (Unfiltered)|
 |---|---|---|---|---|
-|znrf3 |   |   |   |   |
-|wls|   |   |   |   |
-|tspan12|   |   |   |   |
-|tcf|   |   |   |   |
-|sfrp|   |   |   |   |
-|sclerostin|   |   |   |   |
-|rnf43|   |   |   |   |
-|r-spondin|   |   |   |   |
-|porcupine|   |   |   |   |
-|notum|   |   |   |   |
-|norin|   |   |   |   |
-|kremen|   |   |   |   |
-|lgr5|   |   |   |   |
-|gsk3|   |   |   |   |
-|groucho|   |   |   |   |
-|dishevelled|   |   |   |   |
-|geta-catenin|   |   |   |   |
-|ck1|   |   |   |   |
-|axin|   |   |   |   |
-|apc|   |   |   |   |
-|frizzled|   |   |   |   |
+|znrf3 |   |   |   |30|
+|wls|   |   |   |18|
+|tspan12|   |   |   |19|
+|tcf|   |   |   |107|
+|sfrp|   |   |   |33|
+|sclerostin|   |   |   |25|
+|rnf43|   |   |   |29|
+|r-spondin|   |   |   |41|
+|porcupine|   |   |   |29|
+|notum|   |   |   |39|
+|norin|8|6|4|7|
+|kremen|   |   |   |17|
+|lgr5|   |   |   |55|
+|gsk3|   |   |   |26|
+|groucho|   |   |   |35|
+|dishevelled|   |   |   |41|
+|geta-catenin|   |   |   |13|
+|ck1|   |   |   |49|
+|axin|   |   |   |18|
+|apc|   |   |   |38|
+|frizzled|   |   |   |33|
 
 
 Notes:
