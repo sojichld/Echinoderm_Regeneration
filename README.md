@@ -22,12 +22,10 @@ ____
 
 ![alt text](Files/diagram.jpg "Circular Diagram")
 
-Notes:
-[^1]: This is an ongoing repository that will be *archived* in May 2023.
-[^2]: WIPs remain unchecked.
 
-
-|Domain|   |   |   |   |
+_____
+### NOTCH
+|Domain|Blast|CDHIT|Exonerate|Ascension|
 |---|---|---|---|---|
 |correpressor(notch)   |   |   |   |   |
 |receptor(notch)|   |   |   |   |
@@ -40,11 +38,9 @@ Notes:
 |hes|   |   |   |   |
 |csl|   |   |   |   |
 |gammas_secretase|   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
-|Domain|   |   |   |   |
+### WNT
+|Domain|Blast|CDHIT|Exonerate|Ascension|
 |---|---|---|---|---|
 |znrf3 |   |   |   |   |
 |wls|   |   |   |   |
@@ -67,3 +63,8 @@ Notes:
 |axin|   |   |   |   |
 |apc|   |   |   |   |
 |frizzled|   |   |   |   |
+
+
+Notes:
+[^1]: This is an ongoing repository that will be *archived* in May 2023.
+[^2]: WIPs remain unchecked.
